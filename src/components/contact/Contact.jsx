@@ -39,6 +39,7 @@ const Contact = () => {
                 href="mailto:javieraragonesgutierrez@gmail.com"
                 className="contact__button"
                 target="_blank"
+                rel="noreferrer"
               >
                 Escríbeme{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
@@ -55,6 +56,7 @@ const Contact = () => {
                 href="https://api.whatsapp.com/send?phone=600922093&text=Hola,%20vengo%20de%20tu%20sitio%20web%20y%20me%20gustar%C3%ADa%20hablar%20contigo."
                 className="contact__button"
                 target="_blank"
+                rel="noreferrer"
               >
                 Escríbeme{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
@@ -73,6 +75,7 @@ const Contact = () => {
                 href="https://www.linkedin.com/in/javieraragonesgutierrez/"
                 className="contact__button"
                 target="_blank"
+                rel="noreferrer"
               >
                 Escríbeme{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>

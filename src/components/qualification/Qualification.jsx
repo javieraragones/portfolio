@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./qualification.css";
 
 const Qualification = () => {
-  const [toggleState, setToggleState] = useState(1);
+  const [toggleState, setToggleState] = useState(2);
 
   const toggleTab = (index) => {
     setToggleState(index);
@@ -202,7 +202,11 @@ const Qualification = () => {
           >
             <div className="qualification__data">
               <div>
-                <a href="https://www.efset.org/cert/fkcdPh" target="_blank">
+                <a
+                  href="https://www.efset.org/cert/fkcdPh"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <h3 className="qualification__title">
                     EF SET English Certificate 64/100 (C1 Advanced)
                   </h3>
@@ -233,6 +237,7 @@ const Qualification = () => {
                 <a
                   href="https://freecodecamp.org/certification/fcc495d104c-4b13-49e6-9e68-dccc6e167004/quality-assurance-v7"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <h3 className="qualification__title">Quality Assurance</h3>
                 </a>
@@ -248,6 +253,7 @@ const Qualification = () => {
                 <a
                   href="https://freecodecamp.org/certification/fcc495d104c-4b13-49e6-9e68-dccc6e167004/back-end-development-and-apis"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <h3 className="qualification__title">
                     Back End Development and APIs
@@ -277,6 +283,7 @@ const Qualification = () => {
                 <a
                   href="https://freecodecamp.org/certification/fcc495d104c-4b13-49e6-9e68-dccc6e167004/front-end-development-libraries"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <h3 className="qualification__title">
                     Front End Development Libraries
@@ -294,6 +301,7 @@ const Qualification = () => {
                 <a
                   href="https://freecodecamp.org/espanol/certification/fcc495d104c-4b13-49e6-9e68-dccc6e167004/javascript-algorithms-and-data-structures"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <h3 className="qualification__title">
                     JavaScript Algorithms and Data Structures

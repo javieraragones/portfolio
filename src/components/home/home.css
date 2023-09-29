@@ -58,7 +58,7 @@
 }
 
 .home__img {
-  background: url(../../assets//profile.jpg);
+  background: url(../../assets//profile.webp);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -109,6 +109,16 @@
 .home__scroll-arrow {
   font-size: 1.25rem;
   color: var(--title-color);
+}
+
+#spacer {
+  height: auto;
+}
+
+.cv-button {
+  margin-left: 1.5rem;
+  padding-left: 0.7rem;
+  padding-right: 0.7rem;
 }
 
 /*= Breakpoints =*/

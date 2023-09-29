@@ -17,6 +17,7 @@ const Home = () => {
         </div>
 
         <ScrollDown />
+        <div id="spacer"></div>
       </div>
     </section>
   );

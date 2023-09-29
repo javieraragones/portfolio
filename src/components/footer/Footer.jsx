@@ -32,6 +32,7 @@ const Footer = () => {
             href="https://www.linkedin.com/in/javieraragonesgutierrez/"
             className="footer__social-link"
             target="_blank"
+            rel="noreferrer"
           >
             <i className="bx bxl-linkedin"></i>
           </a>
@@ -40,6 +41,7 @@ const Footer = () => {
             href="https://github.com/javieraragones"
             className="footer__social-link"
             target="_blank"
+            rel="noreferrer"
           >
             <i className="bx bxl-github"></i>
           </a>
@@ -48,6 +50,7 @@ const Footer = () => {
             href="https://twitter.com/jaragonesdev"
             className="footer__social-link"
             target="_blank"
+            rel="noreferrer"
           >
             <i className="bx bxl-twitter"></i>
           </a>

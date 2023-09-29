@@ -7,6 +7,7 @@ const Social = () => {
         href="https://www.linkedin.com/in/javieraragonesgutierrez/"
         className="home__social-icon"
         target="_blank"
+        rel="noreferrer"
       >
         <i className="uil uil-linkedin-alt"></i>
       </a>
@@ -15,6 +16,7 @@ const Social = () => {
         href="https://github.com/javieraragones"
         className="home__social-icon"
         target="_blank"
+        rel="noreferrer"
       >
         <i className="uil uil-github-alt"></i>
       </a>
@@ -23,6 +25,7 @@ const Social = () => {
         href="https://twitter.com/jaragonesdev"
         className="home__social-icon"
         target="_blank"
+        rel="noreferrer"
       >
         <i className="uil uil-twitter-alt"></i>
       </a>

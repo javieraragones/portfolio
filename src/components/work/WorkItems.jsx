@@ -8,7 +8,7 @@ const WorkItems = ({ item }) => {
         <img src={item.image} alt="" className="work__img" />
       </div>
       <h3 className="work__title">{item.title}</h3>
-      <a href={item.link} target="_blank" className="work__button">
+      <a href={item.link} target="_blank" rel="noreferrer" className="work__button">
         Demo <i className="bx bx-right-arrow-alt work__button-icon"></i>
       </a>
     </div>
@@ -52,7 +52,12 @@ const WorkItems = ({ item }) => {
           <img src={item.image} alt="" className="work__img" />
         </div>
         <h3 className="work__title">{item.title}</h3>
-        <a href={item.link} target="_blank" className="work__button">
+        <a
+          href={item.link}
+          target="_blank"
+          rel="noreferrer"
+          className="work__button"
+        >
           Proyecto <i className="bx bx-right-arrow-alt work__button-icon"></i>
         </a>
       </div>
@@ -74,7 +79,7 @@ const WorkItems = ({ item }) => {
               .filter((category) => category !== "destacados")
               .join(" - ")}
           </p>
-          <a href={item.link} target="_blank">
+          <a href={item.link} target="_blank" rel="noreferrer">
             <img
               className="projects__modal-img"
               src={item.image}
@@ -93,6 +98,7 @@ const WorkItems = ({ item }) => {
           <a
             href={item.link}
             target="_blank"
+            rel="noreferrer"
             className="projects__modal-link projects__modal-button"
           >
             Enlace a proyecto
