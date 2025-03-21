@@ -138,13 +138,13 @@ const Qualification = () => {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">
-                  Desarrollador Web - Prácticas
-                </h3>
-                <span className="qualification__subtitle">Asystem España</span>
+                <h3 className="qualification__title">Desarrollador Backend</h3>
+                <span className="qualification__subtitle">
+                  BeSoccer - Resultados de fútbol
+                </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> Marzo 2023 - Junio
-                  2023
+                  <i className="uil uil-calendar-alt"></i> Diciembre 2023 -
+                  Actualidad
                 </div>
               </div>
 
@@ -164,31 +164,13 @@ const Qualification = () => {
 
               <div>
                 <h3 className="qualification__title">
-                  Desarrollador WordPress - Prácticas
+                  Desarrollador Full Stack - Prácticas
                 </h3>
                 <span className="qualification__subtitle">Asystem España</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i> Marzo 2023 - Junio
                   2023
                 </div>
-              </div>
-            </div>
-
-            <div className="qualification__data">
-              <div>
-                <h3 className="qualification__title">
-                  Diseño y marketing - Prácticas
-                </h3>
-                <span className="qualification__subtitle">Asystem España</span>
-                <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> Marzo 2023 - Junio
-                  2023
-                </div>
-              </div>
-
-              <div>
-                <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
               </div>
             </div>
           </div>

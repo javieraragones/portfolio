@@ -1,5 +1,5 @@
-import React, { useRef } from "react";
 import emailjs from "@emailjs/browser";
+import React, { useRef } from "react";
 import "./contact.css";
 
 const Contact = () => {
@@ -37,23 +37,6 @@ const Contact = () => {
 
               <a
                 href="mailto:javieraragonesgutierrez@gmail.com"
-                className="contact__button"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Escríbeme{" "}
-                <i className="bx bx-right-arrow-alt contact__button-icon"></i>
-              </a>
-            </div>
-
-            <div className="contact__card">
-              <i className="bx bxl-whatsapp contact__card-icon"></i>
-
-              <h3 className="contact__card-title">Teléfono</h3>
-              <span className="contact__card-data">600 922 093</span>
-
-              <a
-                href="https://api.whatsapp.com/send?phone=600922093&text=Hola,%20vengo%20de%20tu%20sitio%20web%20y%20me%20gustar%C3%ADa%20hablar%20contigo."
                 className="contact__button"
                 target="_blank"
                 rel="noreferrer"

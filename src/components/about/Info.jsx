@@ -7,7 +7,7 @@ const Info = () => {
         <i className="bx bx-award about__icon"></i>
 
         <h3 className="about__title">Experiencia</h3>
-        <span className="about__subtitle">Prácticas: 3 meses</span>
+        <span className="about__subtitle">+ 2 Años</span>
       </div>
 
       <div className="about__box">
@@ -21,7 +21,7 @@ const Info = () => {
         <i className="bx bx-support about__icon"></i>
 
         <h3 className="about__title">Disponibilidad</h3>
-        <span className="about__subtitle">Lunes a sábado 7:00-15:00</span>
+        <span className="about__subtitle">Lunes a viernes</span>
       </div>
     </div>
   );
