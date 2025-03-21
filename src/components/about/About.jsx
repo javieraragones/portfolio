@@ -1,7 +1,7 @@
 import React from "react";
-import "./about.css";
 import AboutImg from "../../assets/about.webp";
 import CV from "../../assets/CV-Javier-Aragones.pdf";
+import "./about.css";
 import Info from "./Info";
 
 const About = () => {
@@ -17,10 +17,9 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Desarrollador Web apasionado por el diseño y el marketing digital.
-            Con experiencia profesional como desarrollador Full Stack en PHP y
-            desarrollador WordPress, he extendido mis habilidades al diseño
-            gráfico, marketing y gestión de redes sociales.
+            Desarrollador Full Stack enfocado en crear aplicaciones web
+            eficientes y escalables, garantizando la máxima calidad en cada
+            proyecto.
           </p>
           <br />
           <a download="" href={CV} className="button button--flex">

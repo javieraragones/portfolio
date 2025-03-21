@@ -7,8 +7,7 @@ const Data = () => {
       <h1 className="home__title">Javier Aragonés</h1>
       <h3 className="home__subtitle">Desarrollador Web</h3>
       <p className="home__description">
-        Graduado en Desarrollo de Aplicaciones Web. Entusiasta del diseño y del
-        marketing digital.
+        Desarrollador Web con enfoque Full Stack y especialización en BackEnd.
       </p>
       <a href="#contacto" className="button button--flex">
         Contactar
