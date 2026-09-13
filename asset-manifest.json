@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.fed5ec21.css",
-    "main.js": "/portfolio/static/js/main.f53ecb6c.js",
+    "main.js": "/portfolio/static/js/main.5fda5a17.js",
     "static/js/453.906b0208.chunk.js": "/portfolio/static/js/453.906b0208.chunk.js",
     "static/media/profile.webp": "/portfolio/static/media/profile.746d5f24c24b543f0299.webp",
     "static/media/CV-Javier-Aragones.pdf": "/portfolio/static/media/CV-Javier-Aragones.2988fcdb758fa4e918d7.pdf",
-    "static/media/about.webp": "/portfolio/static/media/about.c6613d5eb0759b18fb88.webp",
+    "static/media/about.webp": "/portfolio/static/media/about.2e4e1e95770cfa8e33e1.webp",
     "index.html": "/portfolio/index.html",
     "main.fed5ec21.css.map": "/portfolio/static/css/main.fed5ec21.css.map",
-    "main.f53ecb6c.js.map": "/portfolio/static/js/main.f53ecb6c.js.map",
+    "main.5fda5a17.js.map": "/portfolio/static/js/main.5fda5a17.js.map",
     "453.906b0208.chunk.js.map": "/portfolio/static/js/453.906b0208.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fed5ec21.css",
-    "static/js/main.f53ecb6c.js"
+    "static/js/main.5fda5a17.js"
   ]
 }
