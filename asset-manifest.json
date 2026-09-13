@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.fed5ec21.css",
-    "main.js": "/portfolio/static/js/main.99684862.js",
+    "main.js": "/portfolio/static/js/main.62834c24.js",
     "static/js/453.906b0208.chunk.js": "/portfolio/static/js/453.906b0208.chunk.js",
-    "static/media/about.webp": "/portfolio/static/media/about.a5fa783d10e3bcca4198.webp",
     "static/media/profile.webp": "/portfolio/static/media/profile.746d5f24c24b543f0299.webp",
     "static/media/CV-Javier-Aragones.pdf": "/portfolio/static/media/CV-Javier-Aragones.2988fcdb758fa4e918d7.pdf",
+    "static/media/about.webp": "/portfolio/static/media/about.2f0bc0219badc4a36f3c.webp",
     "index.html": "/portfolio/index.html",
     "main.fed5ec21.css.map": "/portfolio/static/css/main.fed5ec21.css.map",
-    "main.99684862.js.map": "/portfolio/static/js/main.99684862.js.map",
+    "main.62834c24.js.map": "/portfolio/static/js/main.62834c24.js.map",
     "453.906b0208.chunk.js.map": "/portfolio/static/js/453.906b0208.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fed5ec21.css",
-    "static/js/main.99684862.js"
+    "static/js/main.62834c24.js"
   ]
 }
